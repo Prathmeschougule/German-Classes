@@ -34,7 +34,7 @@ export function Blog() {
           transition={{ duration: 0.6 }}
         >
           <p className="text-[#2F8AA3] uppercase tracking-wide text-sm font-semibold mb-2">Resources</p>
-          <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">Latest Blog Articles</h2>
+          <h2 className="text-4xl font-bold text-gray-900 dark:text-white mb-4"> New Latest Blog Articles</h2>
           <p className="text-gray-600 dark:text-gray-300 text-lg">
             Insights, tips, and updates from our language experts
           </p>
